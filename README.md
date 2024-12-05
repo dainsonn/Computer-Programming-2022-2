@@ -50,11 +50,4 @@ methods >>
 class **Server**: search, bid, retrieveBids, confirmBids, retrieveRegisteredCourse
 
 ## HW6 (C++)
-### Problem 1 - Shopping Service
-methods >> 
-
-**AdminUI**: AddProduct, EditProduct, ListProduct
-
-**ClientUI**: SignUp, Login, Logout, Buy, AddToCart, ListCartProducts, BuyAllInCart, RecommendProducts
-
-### Problem 2 - Porting a Java Program to C++
+### Problem 2 - Porting a Java Program(SNS) to C++
