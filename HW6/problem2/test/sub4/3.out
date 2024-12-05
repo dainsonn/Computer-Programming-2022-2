@@ -1,0 +1,27 @@
+------ Authentication ------
+id : passwd : ----------------------------
+root@sns.com
+post : Post contents
+recommend <number> : Recommend <number> interesting posts
+search <keyword1> ... <keywordN> <threshold> : List post entries whose contents contain keywords more than the threshold
+exit : Terminate this program
+----------------------------
+Command : ----------------------------
+id : 97, liked : 79, created at : 1983/01/18 00:00:00, title : my crim crinoline crass cataplastic 
+id : 305, liked : 78, created at : 1983/10/08 00:00:00, title : chickenshit is avulsion archenteron are 
+id : 314, liked : 60, created at : 1988/07/20 00:00:00, title : exhaustive czechoslovakian then where where 
+id : 298, liked : 48, created at : 2006/01/09 00:00:00, title : adenine confederate anisette corrivalry a 
+id : 61, liked : 32, created at : 1974/12/24 00:00:00, title : are bibulous bijou earldom birch 
+id : 43, liked : 29, created at : 1980/04/14 00:00:00, title : allochronic ailuropoda where afoul(ip) my 
+id : 278, liked : 23, created at : 2003/03/11 00:00:00, title : appetency anglicanism antilocapridae acidemia the 
+id : 153, liked : 100, created at : 1998/04/28 00:00:00, title : he dastard her my dusicyon 
+id : 285, liked : 100, created at : 1990/03/31 00:00:00, title : diem are dandified airbuilt then 
+id : 248, liked : 100, created at : 1973/01/10 00:00:00, title : where ecclesiastic the a compare 
+----------------------------
+root@sns.com
+post : Post contents
+recommend <number> : Recommend <number> interesting posts
+search <keyword1> ... <keywordN> <threshold> : List post entries whose contents contain keywords more than the threshold
+exit : Terminate this program
+----------------------------
+Command : 

@@ -1,0 +1,29 @@
+------ Authentication ------
+id : root
+passwd : pivot@eee
+-----------------------------------
+root@sns.com
+post : Post contents
+recommend <number> : recommend <number> interesting posts
+search <keyword> : List post entries whose contents contain <keyword>
+exit : Terminate this program
+-----------------------------------
+Command : search classical 1
+id: 389, liked 86, created at: 2007/02/13 00:00:00, title: cleveland adapa her boredom you
+id: 393, liked 35, created at: 1973/11/26 00:00:00, title: ciliated why daffaire blepharitis are
+id: 308, liked 87, created at: 2005/01/22 00:00:00, title: damore is is are cancerous
+id: 309, liked 83, created at: 2008/03/26 00:00:00, title: boltonia my are derris canard
+id: 202, liked 82, created at: 2009/10/23 00:00:00, title: then her christmas clodpoll arthritic
+id: 221, liked 73, created at: 2007/08/17 00:00:00, title: draft barbital comedietta then is
+id: 210, liked 68, created at: 1983/01/28 00:00:00, title: emberizidae carburetor democritus he bucolic
+id: 231, liked 66, created at: 1994/02/14 00:00:00, title: disruptively the my her crocheting
+id: 280, liked 52, created at: 2017/09/05 00:00:00, title: abolengo then delinquent bubalus barracker
+id: 296, liked 32, created at: 2001/09/16 00:00:00, title: creativeness coruscate am adulterated competition
+-----------------------------------
+root@sns.com
+post : Post contents
+recommend <number> : recommend <number> interesting posts
+search <keyword> : List post entries whose contents contain <keyword>
+exit : Terminate this program
+-----------------------------------
+Command :

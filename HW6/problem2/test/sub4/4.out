@@ -1,0 +1,17 @@
+------ Authentication ------
+id : passwd : ----------------------------
+root@sns.com
+post : Post contents
+recommend <number> : Recommend <number> interesting posts
+search <keyword1> ... <keywordN> <threshold> : List post entries whose contents contain keywords more than the threshold
+exit : Terminate this program
+----------------------------
+Command : ----------------------------
+----------------------------
+root@sns.com
+post : Post contents
+recommend <number> : Recommend <number> interesting posts
+search <keyword1> ... <keywordN> <threshold> : List post entries whose contents contain keywords more than the threshold
+exit : Terminate this program
+----------------------------
+Command : 

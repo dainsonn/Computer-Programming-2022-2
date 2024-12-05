@@ -1,0 +1,27 @@
+------ Authentication ------
+id : passwd : ----------------------------
+root@sns.com
+post : Post contents
+recommend <number> : Recommend <number> interesting posts
+search <keyword1> ... <keywordN> <threshold> : List post entries whose contents contain keywords more than the threshold
+exit : Terminate this program
+----------------------------
+Command : ----------------------------
+id : 146, liked : 86, created at : 1977/12/27 00:00:00, title : coherence bennettitaceae the am he 
+id : 313, liked : 81, created at : 1972/01/04 00:00:00, title : arum continental bartonia deviousness actionable 
+id : 97, liked : 79, created at : 1983/01/18 00:00:00, title : my crim crinoline crass cataplastic 
+id : 144, liked : 79, created at : 1973/05/26 00:00:00, title : where chef am demure dirt 
+id : 305, liked : 78, created at : 1983/10/08 00:00:00, title : chickenshit is avulsion archenteron are 
+id : 314, liked : 60, created at : 1988/07/20 00:00:00, title : exhaustive czechoslovakian then where where 
+id : 298, liked : 48, created at : 2006/01/09 00:00:00, title : adenine confederate anisette corrivalry a 
+id : 61, liked : 32, created at : 1974/12/24 00:00:00, title : are bibulous bijou earldom birch 
+id : 43, liked : 29, created at : 1980/04/14 00:00:00, title : allochronic ailuropoda where afoul(ip) my 
+id : 278, liked : 23, created at : 2003/03/11 00:00:00, title : appetency anglicanism antilocapridae acidemia the 
+----------------------------
+root@sns.com
+post : Post contents
+recommend <number> : Recommend <number> interesting posts
+search <keyword1> ... <keywordN> <threshold> : List post entries whose contents contain keywords more than the threshold
+exit : Terminate this program
+----------------------------
+Command : 

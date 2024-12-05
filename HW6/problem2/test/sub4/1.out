@@ -1,0 +1,27 @@
+------ Authentication ------
+id : passwd : ----------------------------
+root@sns.com
+post : Post contents
+recommend <number> : Recommend <number> interesting posts
+search <keyword1> ... <keywordN> <threshold> : List post entries whose contents contain keywords more than the threshold
+exit : Terminate this program
+----------------------------
+Command : ----------------------------
+id : 149, liked : 95, created at : 2016/03/31 00:00:00, title : corundom cudgels asphyxiating he dubitousness 
+id : 158, liked : 83, created at : 2008/03/26 00:00:00, title : boltonia my are derris canard 
+id : 213, liked : 78, created at : 1988/09/22 00:00:00, title : cockleshell east-sider my where deranged 
+id : 218, liked : 77, created at : 2010/12/19 00:00:00, title : her akee confrontation corda her 
+id : 183, liked : 74, created at : 1988/03/28 00:00:00, title : astounding cavity cerussite her then 
+id : 259, liked : 74, created at : 1980/08/08 00:00:00, title : cogged is birdie a exemplify 
+id : 44, liked : 53, created at : 1992/02/22 00:00:00, title : he ah he centimeter dionaea 
+id : 176, liked : 48, created at : 1977/08/18 00:00:00, title : a damocles why eurypterid you 
+id : 111, liked : 34, created at : 1995/03/22 00:00:00, title : deo ester he admired antiinflammatory 
+id : 235, liked : 30, created at : 1972/12/18 00:00:00, title : delphinidae enets camisade why determinedly 
+----------------------------
+root@sns.com
+post : Post contents
+recommend <number> : Recommend <number> interesting posts
+search <keyword1> ... <keywordN> <threshold> : List post entries whose contents contain keywords more than the threshold
+exit : Terminate this program
+----------------------------
+Command : 

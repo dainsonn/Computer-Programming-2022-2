@@ -1,0 +1,7 @@
+pytor 43 
+temp 313 323 320 319 305 314 
+redis 144 146 
+admin 61 97 
+root 298 278 
+mongo 
+tf 393 385 388 389 

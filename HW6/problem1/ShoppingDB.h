@@ -1,0 +1,8 @@
+#ifndef PROBLEM1_SHOPPINGDB_H
+#define PROBLEM1_SHOPPINGDB_H
+
+class ShoppingDB {
+    // TODO
+};
+
+#endif //PROBLEM1_SHOPPINGDB_H
